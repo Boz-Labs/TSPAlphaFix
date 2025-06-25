@@ -1,0 +1,9 @@
+VertexlitGeneric
+{
+	$basetexture "models\props_parable\elevator_platform\grate"
+	$surfaceprop metalgrate
+	"%keywords" "parable"
+	$AlphaTest 1
+	$AlphaTestReference "0.3"
+	$nocull 1
+}

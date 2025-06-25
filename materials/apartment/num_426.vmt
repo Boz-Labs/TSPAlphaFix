@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "apartment/num_426"
+	"$surfaceprop" "Tile"
+	"$translucent" 1
+	"$decal" 1
+}

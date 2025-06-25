@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mc/vol"
+	"$additive"	1
+	"$translucent" 1
+	"$nocull"	1
+	"$surfaceprop" "default_silent"
+	"$color"	"[.5 .5 .1]"
+	"$model"	1
+}

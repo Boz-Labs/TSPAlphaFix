@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+$basetexture "models\props\De_Vertigo\corrugated_metal_plate"
+$bumpmap "models\props\De_Vertigo\corrugated_metal_plate_N.vtf"
+
+$surfaceprop metalvent
+$nocull 1
+
+
+
+
+
+
+
+$basemapalphaphongmask 1
+$phong 1
+$phongBoost 5
+$phongExponent 60
+$phongTint "[.8 1 1]"
+}

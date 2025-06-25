@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/minecraft_textures/mcwater.vmt"
+	"insert"
+	{
+		"$waterdepth"		"32"
+	}
+}

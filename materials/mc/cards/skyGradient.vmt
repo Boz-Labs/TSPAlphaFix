@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mc/cards/skyGradient"
+	"$translucent" 1
+	"$surfaceprop" "default_silent"
+	"$nofog"	1
+}

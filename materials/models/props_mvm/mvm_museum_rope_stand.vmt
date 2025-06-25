@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_mvm/mvm_museum_rope_stand"
+//	"$bumpmap" "models/props_mvm/c_saxxy_normal"	
+//	"$detail" "models/props_mvm/fireLayeredSlowTiled512.vtf"	
+//	"$detailscale" "5"
+//	"$detailblendfactor" .01
+//	"$detailblendmode" 6
+	"$yellow" "0"
+
+	"$envmap" "models/props_mvm/saxxy_gold"
+	"$envmaptint" "[.3 .3 .3]"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$basemapalphaphongmask"	"1"
+
+	"$phong" "1"
+	"$phongexponent" "60"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.2 1 4]"
+
+	"$lightwarptexture" "models/props_mvm/pyro_lightwarp"
+
+	"$rimlight" "0"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "1"
+}

@@ -1,0 +1,2311 @@
+"narration.wife_apartment"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#apartment\wife_apartment.wav"
+}
+"narration.alphaintromusic"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\alphaintromusic.wav"
+}
+"narration.apartment_escape"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_escape.mp3"
+}
+"narration.boss's_office"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\boss's_office.mp3"
+}
+"narration.cargo_lift"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\cargo_lift.mp3"
+}
+"narration.cargolift_jump"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\cargolift_jump.mp3"
+}
+"narration.death_machine_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\death_machine_1.mp3"
+}
+"narration.death_machine_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\death_machine_2.mp3"
+}
+"narration.disobey_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\disobey_1.mp3"
+}
+"narration.disobey_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\disobey_2.mp3"
+}
+"narration.disobey_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\disobey_3.wav"
+}
+"narration.escape_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\escape_1.mp3"
+}
+"narration.escape_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\escape_2.mp3"
+}
+"narration.escape_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\escape_3.mp3"
+}
+"narration.escape_return"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\escape_return.mp3"
+}
+"narration.fell_to_his_death"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\fell_to_his_death.mp3"
+}
+"narration.first_doors"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\first_doors.mp3"
+}
+"narration.intro_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\intro_1.mp3"
+}
+"narration.intro_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\intro_2.mp3"
+}
+"narration.intro_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\intro_3.mp3"
+}
+"narration.keypad_activate"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\keypad_activate.mp3"
+}
+"narration.keypad_delay_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\keypad_delay_1.mp3"
+}
+"narration.keypad_delay_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\keypad_delay_2.mp3"
+}
+"narration.keypad_delay_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\keypad_delay_3.wav"
+}
+"narration.lounge_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\lounge_1.mp3"
+}
+"narration.lounge_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\lounge_2.mp3"
+}
+"narration.lounge_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\lounge_3.mp3"
+}
+"narration.lounge_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\lounge_4.mp3"
+}
+"narration.lounge_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\lounge_5.mp3"
+}
+"narration.machine_elevator_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\machine_elevator_1.mp3"
+}
+"narration.machine_elevator_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\machine_elevator_2.mp3"
+}
+"narration.machine_elevator_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\machine_elevator_3.mp3"
+}
+"narration.machine_elevator_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\machine_elevator_4.mp3"
+}
+"narration.machine_elevator_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\machine_elevator_5.mp3"
+}
+"narration.machine_room"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\machine_room.mp3"
+}
+"narration.meeting_room"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\meeting_room.mp3"
+}
+"narration.office_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\office_1.mp3"
+}
+"narration.office_looking_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\office_looking_1.mp3"
+}
+"narration.office_looking_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\office_looking_2.mp3"
+}
+"narration.office_looking_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\office_looking_3.mp3"
+}
+"narration.red_blue_door_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\red_blue_door_1.mp3"
+}
+"narration.red_blue_door_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\red_blue_door_2.mp3"
+}
+"narration.red_blue_door_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\red_blue_door_3.mp3"
+}
+"narration.red_blue_door_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\red_blue_door_4.mp3"
+}
+"narration.staircase"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\staircase.mp3"
+}
+"narration.telephone_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\telephone_1.mp3"
+}
+"narration.telephone_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\telephone_2.mp3"
+}
+"narration.telephone_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\telephone_3.mp3"
+}
+"narration.underground_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\underground_1.mp3"
+}
+"narration.underground_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\underground_2.mp3"
+}
+"narration.underground_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\underground_3.mp3"
+}
+"narration.underground_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\underground_4.mp3"
+}
+"narration.zending"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zending.mp3"
+}
+"narration.timer_self_destruct"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator_temp\timer_self_destruct.mp3"
+}
+"narration.con_04_he_turned_again"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_04_he turned again.mp3"
+}
+"narration.con_05_no_sorry_to_the_right"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_05_no sorry to the right.mp3"
+}
+"narration.con_06_to_the_elevator"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_06_to the elevator.mp3"
+}
+"narration.con_07_machine_room"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_07_machine room.mp3"
+}
+"narration.con_08_back_in_the_elevator"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_08_back in the elevator.mp3"
+}
+"narration.con_09_is_this_the_same_building"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_09_is this the same building.mp3"
+}
+"narration.con_10_you_figure_it_out"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_10_you figure it out.mp3"
+}
+"narration.con_11_im_going_to_restart"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_11_im going to restart.mp3"
+}
+"narration.con_12_restart"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_12_restart.mp3"
+}
+"narration.con_13_maybe_a_surprise_party"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_13_maybe a surprise party.mp3"
+}
+"narration.con_14_adventure_line"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_14_adventure line.mp3"
+}
+"narration.con_15_monologue_and_music"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_15_monologue and music.mp3"
+}
+"narration.con_16_go look_at_that_fern"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_16_go look at that fern.mp3"
+}
+"narration.con_17_fern1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_17_fern1.mp3"
+}
+"narration.con_18_fern2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_18_fern2.mp3"
+}
+"narration.con_19_fern3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_19_fern3.mp3"
+}
+"narration.con_20_fern4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_20_fern4.mp3"
+}
+"narration.con_21_the_line_again"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_21_the line again.mp3"
+}
+"narration.con_22_monologue2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_22_monologue2.mp3"
+}
+"narration.con_23_the_party_exists"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_23_the party exists.mp3"
+}
+"narration.con_24_other_building_again"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_24_other building again.mp3"
+}
+"narration.con_25_sorry_line"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_25_sorry line.mp3"
+}
+"narration.con_26_green_door"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_26_green door.mp3"
+}
+"narration.con_27_try_the_other_one"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_27_try the other one.mp3"
+}
+"narration.con_28_finale"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\con_28_finale.mp3"
+}
+"narration.death_machine_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\death_machine_1.mp3"
+}
+"narration.escape_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\escape_1.mp3"
+}
+"narration.escape_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\escape_2.mp3"
+}
+"narration.escape_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\escape_3.mp3"
+}
+"narration.suicide_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#stanley\suicide 01.mp3"
+}
+"narration.temp_a1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a1.mp3"
+}
+"narration.temp_a2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a2.mp3"
+}
+"narration.temp_a3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a3.mp3"
+}
+"narration.temp_a4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a4.mp3"
+}
+"narration.temp_a5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a5.mp3"
+}
+"narration.temp_a6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a6.mp3"
+}
+"narration.temp_a7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a7.mp3"
+}
+"narration.temp_a8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a8.mp3"
+}
+"narration.temp_a9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\a9.mp3"
+}
+"narration.temp_b1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b1.mp3"
+}
+"narration.temp_b2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b2.mp3"
+}
+"narration.temp_b3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b3.mp3"
+}
+"narration.temp_b4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b4.mp3"
+}
+"narration.temp_b5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b5.mp3"
+}
+"narration.temp_b6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b6.mp3"
+}
+"narration.temp_b7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b7.mp3"
+}
+"narration.temp_b8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b8.mp3"
+}
+"narration.temp_b9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\b9.mp3"
+}
+"narration.temp_c1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c1.mp3"
+}
+"narration.temp_c2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c2.mp3"
+}
+"narration.temp_c3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c3.mp3"
+}
+"narration.temp_c4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c4.mp3"
+}
+"narration.temp_c5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c5.mp3"
+}
+"narration.temp_c6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c6.mp3"
+}
+"narration.temp_c7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c7.mp3"
+}
+"narration.temp_c8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c8.mp3"
+}
+"narration.temp_c9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\c9.mp3"
+}
+"narration.temp_pt1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt1.mp3"
+}
+"narration.temp_pt2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt2.mp3"
+}
+"narration.temp_pt3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt3.mp3"
+}
+"narration.temp_pt4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt4.mp3"
+}
+"narration.temp_pt5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt5.mp3"
+}
+"narration.temp_pt6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt6.mp3"
+}
+"narration.temp_pt7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt7.mp3"
+}
+"narration.temp_pt8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt8.mp3"
+}
+"narration.temp_pt9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt9.mp3"
+}
+"narration.temp_pt10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt10.mp3"
+}
+"narration.temp_pt11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt11.mp3"
+}
+"narration.temp_pt12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt12.mp3"
+}
+"narration.temp_pt13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt13.mp3"
+}
+"narration.temp_pt14"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt14.mp3"
+}
+"narration.temp_pt15"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt15.mp3"
+}
+"narration.temp_pt16"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt16.mp3"
+}
+"narration.temp_pt17"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt17.mp3"
+}
+"narration.temp_pt18"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\pt18.mp3"
+}
+"narration.zen_blue valve"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_blue valve.mp3"
+}
+"narration.zen_bridge 1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_bridge 1.mp3"
+}
+"narration.zen_bridge 2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_bridge 2.mp3"
+}
+"narration.zen_door on his left"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_door on his left.mp3"
+}
+"narration.zen_door on his right"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_door on his right.mp3"
+}
+"narration.zen_grass"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_grass.mp3"
+}
+"narration.zen_green valve"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_green valve.mp3"
+}
+"narration.zen_orange valve"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_orange valve.mp3"
+}
+"narration.zen_quit"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_quit.mp3"
+}
+"narration.zen_red button 1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_red button 1.mp3"
+}
+"narration.zen_red button 2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_red button 2.mp3"
+}
+"narration.zen_red button 3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_red button 3.mp3"
+}
+"narration.zen_snow"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_snow.mp3"
+}
+"narration.zen_that felt amazing"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_that felt amazing.mp3"
+}
+"narration.zen_valve 1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_valve 1.mp3"
+}
+"narration.zen_valve 2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_valve 2.mp3"
+}
+"narration.zen_valve 3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zen_valve 3.mp3"
+}
+"narration.zending_intro1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zending_intro1.mp3"
+}
+"narration.zending_intro2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#tempvoices\zending_intro2.mp3"
+}
+"narration.incorrect_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_01.mp3"
+}
+"narration.incorrect_03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_03.mp3"
+}
+"narration.incorrect_04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_04.mp3"
+}
+"narration.incorrect_05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_05.mp3"
+}
+"narration.incorrect_06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_06.mp3"
+}
+"narration.incorrect_07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_07.mp3"
+}
+"narration.incorrect_08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_08.mp3"
+}
+"narration.incorrect_09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_09.mp3"
+}
+"narration.incorrect_10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_10.mp3"
+}
+"narration.incorrect_11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\incorrect_11.mp3"
+}
+////////////////////////////////////////////////////////////////////////////////
+//9-9-2012!
+"narration.apartment_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_1.wav"
+}
+"narration.apartment_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_2.wav"
+}
+"narration.apartment_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_3.wav"
+}
+"narration.apartment_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_4.wav"
+}
+"narration.apartment_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_5.wav"
+}
+"narration.apartment_6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_6.wav"
+}
+"narration.apartment_7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_7.wav"
+}
+"narration.apartment_8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_8.wav"
+}
+"narration.apartment_9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_9.wav"
+}
+"narration.apartment_10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_10.wav"
+}
+"narration.apartment_11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_11.wav"
+}
+"narration.apartment_12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_12.wav"
+}
+"narration.apartment_13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_13.wav"
+}
+"narration.apartment_14"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\apartment_14.wav"
+}
+"narration.broomcloset_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_1.wav"
+}
+"narration.broomcloset_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_2.wav"
+}
+"narration.broomcloset_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_3.wav"
+}
+"narration.broomcloset_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_4.wav"
+}
+"narration.broomcloset_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_5.wav"
+}
+"narration.broomcloset_6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_6.wav"
+}
+"narration.broomcloset_7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_7.wav"
+}
+"narration.broomcloset_8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_8.wav"
+}
+"narration.broomcloset_9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\broomcloset_9.wav"
+}
+"narration.cargo_lift_death"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\cargo_lift_death.wav"
+}
+"narration.close_the_first_door"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\close_the_first_door.wav"
+}
+"narration.con1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con1.wav"
+}
+"narration.con2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con2.wav"
+}
+"narration.con3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con3.wav"
+}
+"narration.con4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con4.wav"
+}
+"narration.con5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con5.wav"
+}
+"narration.con6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con6.wav"
+}
+"narration.con7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con7.wav"
+}
+"narration.con8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con8.wav"
+}
+"narration.con9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con9.wav"
+}
+"narration.con10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con10.wav"
+}
+"narration.con11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con11.wav"
+}
+"narration.con12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con12.wav"
+}
+"narration.con13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con13.wav"
+}
+"narration.con14"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con14.wav"
+}
+"narration.con15"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con15.wav"
+}
+"narration.con16"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con16.wav"
+}
+"narration.con17"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con17.wav"
+}
+"narration.con18"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con18.wav"
+}
+"narration.con19"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con19.wav"
+}
+"narration.con20"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con20.wav"
+}
+"narration.con21"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con21.wav"
+}
+"narration.con22"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con22.wav"
+}
+"narration.countdown"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\countdown.wav"
+}
+"narration.death_machine_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\death_machine_3.wav"
+}
+"narration.dream_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\dream_1.wav"
+}
+"narration.dream_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\dream_2.wav"
+}
+"narration.freedom_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\freedom_1.wav"
+}
+"narration.freedom_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\freedom_2.wav"
+}
+"narration.freedom_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\freedom_3.wav"
+}
+"narration.freedom_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\freedom_4.wav"
+}
+"narration.freedom_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\freedom_5.wav"
+}
+"narration.keypad_too_fast"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\keypad_too_fast.wav"
+}
+"narration.minecraft1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\minecraft1.wav"
+}
+"narration.minecraft2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\minecraft2.wav"
+}
+"narration.minecraft3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\minecraft3.wav"
+}
+"narration.minecraft4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\minecraft4.wav"
+}
+"narration.minecraft5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\minecraft5.wav"
+}
+"narration.monitors_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\monitors_1.wav"
+}
+"narration.monitors_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\monitors_2.wav"
+}
+"narration.playtest_baby_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest_baby_1.wav"
+}
+"narration.playtest_baby_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest_baby_2.wav"
+}
+"narration.playtest_feedback_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest_feedback_1.wav"
+}
+"narration.playtest_feedback_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest_feedback_5.wav"
+}
+"narration.playtest_feedback_interesting"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest_feedback_interesting.wav"
+}
+"narration.playtest1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest1.wav"
+}
+"narration.playtest2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest2.wav"
+}
+"narration.playtest3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest3.wav"
+}
+"narration.playtest4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest4.wav"
+}
+"narration.playtest5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest5.wav"
+}
+"narration.playtest6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\playtest6.wav"
+}
+"narration.portal_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_1.wav"
+}
+"narration.portal_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_2.wav"
+}
+"narration.Portal_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"0.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_3.wav"
+}
+"narration.portal_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_4.wav"
+}
+"narration.portal_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_5.wav"
+}
+"narration.portal_escape_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_escape_1.wav"
+}
+"narration.portal_escape_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_escape_2.wav"
+}
+"narration.portal_escape_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_escape_3.wav"
+}
+"narration.portal_escape_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_escape_4.wav"
+}
+"narration.portal_escape_5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_escape_5.wav"
+}
+"narration.suicide_bored"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide_bored.wav"
+}
+"narration.suicide_kidding"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide_kidding.wav"
+}
+"narration.suicide0"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide0.wav"
+}
+"narration.suicide1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide1.wav"
+}
+"narration.suicide2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide2.wav"
+}
+"narration.suicide3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide3.wav"
+}
+"narration.suicide4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide4.wav"
+}
+"narration.suicide5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide5.wav"
+}
+"narration.suicide6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide6.wav"
+}
+"narration.suicide7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide7.wav"
+}
+"narration.suicide8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide8.wav"
+}
+"narration.suicide9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide9.wav"
+}
+"narration.suicide10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide10.wav"
+}
+"narration.suicide11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide11.wav"
+}
+"narration.suicide12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide12.wav"
+}
+"narration.suicide13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\suicide13.wav"
+}
+"narration.zen_a1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a1.wav"
+}
+"narration.zen_a2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a2.wav"
+}
+"narration.zen_a3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a3.wav"
+}
+"narration.zen_a4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a4.wav"
+}
+"narration.zen_a5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a5.wav"
+}
+"narration.zen_a6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a6.wav"
+}
+"narration.zen_a7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a7.wav"
+}
+"narration.zen_a8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a8.wav"
+}
+"narration.zen_a9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_a9.wav"
+}
+"narration.zen_b1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b1.wav"
+}
+"narration.zen_b2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b2.wav"
+}
+"narration.zen_b3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b3.wav"
+}
+"narration.zen_b4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b4.wav"
+}
+"narration.zen_b5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b5.wav"
+}
+"narration.zen_b6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b6.wav"
+}
+"narration.zen_b7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b7.wav"
+}
+"narration.zen_b8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b8.wav"
+}
+"narration.zen_b9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_b9.wav"
+}
+"narration.zen_c1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c1.wav"
+}
+"narration.zen_c2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c2.wav"
+}
+"narration.zen_c3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c3.wav"
+}
+"narration.zen_c4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c4.wav"
+}
+"narration.zen_c5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c5.wav"
+}
+"narration.zen_c6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c6.wav"
+}
+"narration.zen_c7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c7.wav"
+}
+"narration.zen_c8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c8.wav"
+}
+"narration.zen_c9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_c9.wav"
+}
+"narration.zen_final_blue"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_blue.wav"
+}
+"narration.zen_final_bridge"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_bridge.wav"
+}
+"narration.zen_final_button"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_button.wav"
+}
+"narration.zen_final_escape"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_escape.wav"
+}
+"narration.zen_final_grass"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_grass.wav"
+}
+"narration.zen_final_green"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_green.wav"
+}
+"narration.zen_final_orange"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_orange.wav"
+}
+"narration.zen_final_river"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_river.wav"
+}
+"narration.zen_final_roof"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_roof.wav"
+}
+"narration.zen_final_snow"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_snow.wav"
+}
+"narration.zen_final_thingoff"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_thingoff.wav"
+}
+"narration.zen_final_thingon"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_thingon.wav"
+}
+"narration.zen_final_valve"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zen_final_valve.wav"
+}
+"narration.zending_1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zending_1.wav"
+}
+"narration.zending_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zending_2.wav"
+}
+"narration.zending_3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zending_3.wav"
+}
+"narration.zending_left"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zending_left.wav"
+}
+"narration.zending_right"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\zending_right.wav"
+}
+////////////////////////////////////////////////////////////////////////////////
+//9-16-2012!
+"narration.con22cheers"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\con22cheers.wav"
+}
+"narration.dream_1music"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\dream_1music.wav"
+}
+"narration.dream_2music"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\dream_2music.wav"
+}
+"narration.introwithmusic"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\introwithmusic.wav"
+}
+"narration.portal_3edit"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\portal_3edit.wav"
+}
+"narration.Tomorrow_Main"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\Tomorrow_Main.wav"
+}
+"narration.Tomorrow_BellLong"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\Tomorrow_BellLong.wav"
+}
+"narration.Tomorrow_Bell"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\Tomorrow_Bell.wav"
+}
+////////////////////////////////////////////////////////////////////////////////
+//10-10-2012!
+//For the end of the confusion ending
+"narration.Freedom_3_con"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_TALKING"
+	"wave"		"#narrator\freedom_3_con.wav"
+}
+"narration.Freedom_4_con"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_TALKING"
+	"wave"		"narrator\freedom_4_con.wav"
+}
+"narration.Freedom_5_con"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_TALKING"
+	"wave"		"narrator\freedom_5.wav"
+}
+//////////////////////////////////////////////////////////////////////////////
+//10-13-2012!
+"narration.Countdown_music"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\Countdown_music.wav"
+}
+"narration.minecraft_mobs"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\minecraft_mobs.wav"
+}
+"narration.tanya1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\tanya1.wav"
+}
+"narration.tanya2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\tanya2.wav"
+}
+"narration.tanya3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\tanya3.wav"
+}
+"narration.tanya4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\tanya4.wav"
+}
+"narration.tanya5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\tanya5.wav"
+}
+"narration.tanya6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\tanya6.wav"
+}
+////////////////////////////////////////////////////
+//10-14-2012!
+//more confusion ending dialogue
+"narration.ConEnd1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\ConEnd1.wav"
+}
+////////////////////////////////////////////////////
+//10-28-2012
+//davey quit renaming files
+"narration.Freedom_4_con2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_TALKING"
+	"wave"		"narrator\Freedom_4_con2.wav"
+}
+"narration.countdown_NEW"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\countdown_NEW.wav"
+}
+"narration.Con_freedom_muffled"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_TALKING"
+	"wave"		"#narrator\Con_freedom_muffled.wav"
+}
+"narration.silence"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"		"#narrator\silence.wav"
+}

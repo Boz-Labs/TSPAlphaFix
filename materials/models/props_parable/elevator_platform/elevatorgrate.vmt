@@ -1,0 +1,11 @@
+VertexlitGeneric
+{
+$basetexture "models\props_parable\elevator_platform\elevatorgrate"
+"%compilepassbullets" 1
+$surfaceprop metalgrate
+"%keywords" portal
+$AlphaTest 1
+$AlphaTestReference "0.3"
+$AllowAlphaToCoverage 1
+$nocull 1
+}

@@ -1,0 +1,26 @@
+"stanley.officegeneric"
+{
+	"dsp"	"1"
+	"fadetime" "0.5"
+
+	"playlooping"
+	{
+		"volume"		".25"
+		"pitch"		"110"
+		"wave"		"ambient/tones/roomtone2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".9"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".4"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_02.wav"
+	}
+}

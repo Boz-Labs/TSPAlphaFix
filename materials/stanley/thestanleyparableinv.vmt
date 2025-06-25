@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$basetexture "stanley/thestanleyparableinv"
+"%compilepassbullets" 1
+$surfaceprop metalgrate
+"%keywords" stanley
+$translucent 1
+
+}

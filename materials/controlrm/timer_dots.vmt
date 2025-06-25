@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "controlrm/timer_dots"
+	"$translucent" 1
+	"$decalscale" 0.4
+}

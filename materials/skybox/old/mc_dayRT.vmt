@@ -1,0 +1,6 @@
+"Sky"
+{
+	"$baseTexture" 		"mc_dayRT"
+	"$nofog" 		"1"
+	"$ignorez" 		"1"
+}

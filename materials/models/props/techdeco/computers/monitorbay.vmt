@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/techdeco/computers/MonitorBay.vtf"
+$selfillum 1
+}

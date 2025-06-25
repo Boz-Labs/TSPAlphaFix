@@ -1,0 +1,34 @@
+"LightmappedGeneric"
+{
+	"%tooltexture" "minecraft_textures/mcwater"
+	"%compilewater" "1"
+	"%compileKeepLight" 1
+	"$reflectivity" "[0 0 0]"
+
+	"$basetexture" "minecraft_textures/mcwater"
+	"$surfaceprop" "water"
+	"$alpha" "0.92"
+
+	"$abovewater" "1"
+
+	"$fogenable" 1
+	"$fogcolor" "{11 3 200}"
+	"$fogstart" "-400"
+	"$fogend" "1000"
+
+	"$bottommaterial" "minecraft_textures/mcwater"
+
+	"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedtexturevar" "$basetexture"
+"animatedtextureframenumvar" "$frame"
+"animatedtextureframerate" 15.00
+}
+
+"WaterLOD"
+		{
+		}
+}
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/emotbooth/sign_brown"
+	$selfillum 1
+}

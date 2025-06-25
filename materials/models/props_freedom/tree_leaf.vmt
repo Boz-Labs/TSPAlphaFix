@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_freedom/tree_leaf"
+	"$translucent" 1
+}

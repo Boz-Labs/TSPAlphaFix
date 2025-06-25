@@ -1,0 +1,258 @@
+"stanley.officegeneric"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		".05"
+		"pitch"		"110"
+		"wave"		"ambient/tones/roomtone2.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".40"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".1"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_02.wav"
+	}
+}
+
+"stanley.officegeneric2"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		".45"
+		"pitch"		"100" 
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".05"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_02.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".06"
+		"pitch"		"115"
+		"wave"		"ambient/tones/roomtone2.wav"
+	}
+}
+"stanley.officegeneric3"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+	
+	"playlooping"
+	{
+		"volume"		".3"
+		"pitch"		"100" 
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".06"
+		"pitch"		"100"
+		"wave"		"ambient/tones/roomtone1.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".07"
+		"pitch"		"115"
+		"wave"		"ambient/amb_hotel_refrigeration_lp_01.wav"
+	}
+}
+"stanley.cargolift"
+{
+	"dsp"	"0.1"
+	"fadetime" "1.5"
+	
+	"playlooping"
+	{
+		"volume"		".3"
+		"pitch"		"100" 
+		"wave"		"ambient\underground\amb_bank_02.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".25"
+		"pitch"		"100"
+		"wave"		"ambient/office/industrial3_loop.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".07"
+		"pitch"		"115"
+		"wave"		"ambient/amb_hotel_refrigeration_lp_01.wav"
+	}
+}
+"stanley.behindboss"
+{
+	"dsp"	"0.1"
+	"fadetime" "1 "
+	
+	"playlooping"
+	{
+		"volume"		".2"
+		"pitch"		"100" 
+		"wave"		"ambient\office\crucial_corridor_water.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".17"
+		"pitch"		"100"
+		"wave"		"ambient/office/industrial2_loop.wav"
+	}
+	
+}
+"stanley.boss"
+{
+	"dsp"	"0.1"
+	"fadetime" "1 "
+	
+	"playlooping"
+	{
+		"volume"		".5"
+		"pitch"		"100" 
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+}
+"stanley.maint" 
+{
+	"dsp"	"0.1"
+	"fadetime" "1 "
+	
+	"playlooping"
+	{
+		"volume"		".15"
+		"pitch"		"100" 
+		"wave"		"ambient\office\css15_amb_baggage_escalator.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".1"
+		"pitch"		"100"
+		"wave"		"ambient/spacial_loops/crucial_big_pipes_loop.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".2"
+		"pitch"		"100"
+		"wave"		"ambient/office/office_garage_tone_02.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".06"
+		"pitch"		"100"
+		"wave"		"ambient/tones/roomtone3.wav"
+	}
+}
+
+"stanley.stairsmid"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		".2"
+		"pitch"		"100"
+		"wave"		"ambient/office/css15_amb_baggage_escalator.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".15"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".07"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_02.wav"
+	}
+}
+
+"stanley.stairsup"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		".1"
+		"pitch"		"100"
+		"wave"		"ambient/office/css15_amb_baggage_escalator.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".20"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".1"
+		"pitch"		"100"
+		"wave"		"ambient\outside\woodland_ambient_1.wav"
+	}
+	"playlooping"
+	{
+		"volume"		".1"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_02.wav"
+	}
+}
+
+"stanley.stairsdown"
+{
+	"dsp"	"0.1"
+	"fadetime" "1"
+
+	"playlooping"
+	{
+		"volume"		".25"
+		"pitch"		"100"
+		"wave"		"ambient/office/css15_amb_baggage_escalator.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".25"
+		"pitch"		"100"
+		"wave"		"ambient\tones\office_room_tone_01.wav"
+	}
+	
+	"playlooping"
+	{
+		"volume"		".1"
+		"pitch"		"100"
+		"wave"		"ambient\tones\crucial_underground_wet_loop.wav"
+	}
+}

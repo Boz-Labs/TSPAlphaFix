@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+$baseTexture "models/props_lights/light_panel_glass_neutral1"
+$surfaceprop glass
+$translucent 1
+$additive 1
+
+"%noportal" 1
+
+
+
+
+
+
+
+
+
+
+
+}

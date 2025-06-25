@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "effects/redoverlay"
+	"$surfaceprop" "Default"
+	"$translucent" 1
+ 	"$decal" 1
+
+	"Proxies" 
+	{ 
+		 "ToggleTexture"
+		 {
+		 "toggleTextureVar" "$baseTexture"
+		 "toggleTextureFrameNumVar" "$frame"
+		 "toggleTextureShouldWrap" "0"
+		 } 	
+ 	} 
+
+}
+

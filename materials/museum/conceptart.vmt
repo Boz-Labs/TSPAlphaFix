@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+   "$basetexture" "museum\conceptart"
+   "$decal" 1
+   "$decalscale" 0.6
+   "$translucent" 1
+}

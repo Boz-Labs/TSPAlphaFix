@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "screens/emp2"
+$surfaceprop glass
+$selfillum 1
+}

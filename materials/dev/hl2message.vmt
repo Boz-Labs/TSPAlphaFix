@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dev/hl2message"
+	"$surfaceprop" "brick"
+}

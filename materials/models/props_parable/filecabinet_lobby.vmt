@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$basetexture "models/props_underground/filecabinet_lobby"
+$surfaceprop metal
+$phong 1
+$nocull 1
+$phongexponent 100
+$phongboost ".5"
+$phongfresnelranges "[.3 .6 4]"
+
+$basemapalphaphongmask 1
+}

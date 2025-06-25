@@ -1,0 +1,5 @@
+vertexLitGeneric
+{
+$baseTexture "models/props/props_gameplay/target_bullseye_prop"
+$surfaceprop metal
+}

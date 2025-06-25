@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$basetexture "stanley/thestanleyparable"
+$surfaceprop metalgrate
+$translucent 1
+
+}

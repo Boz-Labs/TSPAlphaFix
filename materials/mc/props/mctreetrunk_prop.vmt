@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mc/log_oak"
+	"$surfaceprop" "wood"
+	"$model" 1
+}

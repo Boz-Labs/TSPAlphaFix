@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "controlrm/timer_num"
+	"$frame" 0
+
+	"Proxies" 
+	{ 	
+		"ToggleTexture"
+		{
+			"toggleTextureVar" "$baseTexture"
+			"toggleTextureFrameNumVar" "$frame"
+			"toggleTextureShouldWrap" "0"
+   		} 
+	}
+}

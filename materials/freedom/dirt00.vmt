@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"freedom/dirt00"
+	"$basetexture2"	"freedom/grass00a"
+	"$blendmodulatetexture" "freedom/dirt_blend"
+	"$blendmasktransform" "center .5 .5 scale 1 -1 rotate 90 translate 0 0"
+	"$surfaceprop"	"dirt"
+}

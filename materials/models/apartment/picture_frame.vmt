@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models/apartment/picture_frame"
+$surfaceprop metal
+}

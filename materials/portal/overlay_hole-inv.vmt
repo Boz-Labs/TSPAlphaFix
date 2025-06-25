@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "portal/overlay_hole-inv"
+	"$translucent" 1
+}

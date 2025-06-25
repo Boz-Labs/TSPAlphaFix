@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "apartment/overlay_wall-a"
+	"$surfaceprop" "Default"
+	"$translucent" 1
+ 	"$decal" 1
+
+	"Proxies" 
+	{ 
+		 "ToggleTexture"
+		 {
+		 "toggleTextureVar" "$baseTexture"
+		 "toggleTextureFrameNumVar" "$frame"
+		 "toggleTextureShouldWrap" "0"
+		 } 	
+ 	} 
+}

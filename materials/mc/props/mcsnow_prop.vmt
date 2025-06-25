@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mc/snow"
+	"$surfaceprop" "snow"
+	"$model" 1
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mc/cards/jng01"
+	"$translucent" 1
+	"$surfaceprop" "default_silent"
+	"$nofog"	1
+}

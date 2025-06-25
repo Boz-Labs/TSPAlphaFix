@@ -1,0 +1,13 @@
+Intro Timing
+
+0:00 - start music
+10:00 start intro01
+20:00 "427*"
+25:00 "he sat at his * desk"
+28:50 "buttons on a keyboard*"
+37:00 good transition place
+
+57:00 start intro02
+67:00 start intro03
+96:00 ENABLE OFFICE CAMERA
+101:50 ENABLE PLAYER MOVEMENT

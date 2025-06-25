@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "sdk/models/Humans/Male/glint"
+	"$additive" 1
+	"$model" 1
+}

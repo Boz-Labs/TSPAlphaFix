@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_parable/elevator_platform/rust"
+	$bumpmap "models/props_parable/elevator_platform/rust"
+	
+	$phong 1
+	$phongexponent 10
+	$phongboost "0.2"
+	$phongfresnelranges "[1 5 10]"
+	$basemapalphaphongmask 1
+}

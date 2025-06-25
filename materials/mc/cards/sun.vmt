@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mc/cards/sun"
+	"$additive"	1
+	"$surfaceprop" "default_silent"
+	"$nofog"	1
+}

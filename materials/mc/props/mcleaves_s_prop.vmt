@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mc/leaves_pine"
+	"$surfaceprop" "Grass"
+	"$alphatest" 1
+	"$model"	1
+//	"$translucent" 1
+//	"$nocull" 1
+
+}

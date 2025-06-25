@@ -1,0 +1,170 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\The Stanley Parable\thestanleyparable\materials
+Loading d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\test_warzone.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Material not found!: WARZONE/WALL00
+Material not found!: WARZONE/CEILING00
+Material not found!: WARZONE/FLOOR00
+Material not found!: WARZONE/CLIFF00_BLEND
+Material not found!: WARZONE/DETAIL_NEONBLUE
+Material not found!: WARZONE/DETAIL_GRID
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+Material not found!: WARZONE/HIGHWAY_02
+Material not found!: WARZONE/DETAIL-PILLAR
+Patching WVT material: maps/test_warzone/warzone/sand00_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 52 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\test_warzone.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38727 bytes)
+Error loading studio model "models/warzone/hmmwv_glass.mdl"!
+Error loading studio model "models/props_moon/parts/moon_flag.mdl"!
+Error loading studio model "models/warzone/cattlegate.mdl"!
+Error loading studio model "models/warzone/hmmwv.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+9Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+.Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+.Material WARZONE/SAND00_BLEND uses unknown detail object type warzone_sand01!
+.10
+Compacting texture/material tables...
+Reduced 220 texinfos to 109
+Reduced 16 texdatas to 15 (331 bytes to 282)
+Writing d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\test_warzone.bsp
+
+nummapplanes:     (   366 / 65536 )
+nummapbrushes:    (   105 /  8192 )
+nummapbrushsides: (   919 / 65536 )
+num_map_overlays: (     2 /   512 )
+nummodels:        (     1 /  1024 )
+num_entities:     (     5 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\test_warzone.bsp
+reading d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\test_warzone.prt
+  26 portalclusters
+  47 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 548
+Average clusters visible: 21
+Building PAS...
+Average clusters audible: 26
+visdatasize:420  compressed from 416
+writing d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\test_warzone.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\test_warzone.bsp
+311 faces
+82723 square feet [11912204.00 square inches]
+38 Displacements
+47592 Square Feet [6853355.50 Square Inches]
+311 patches before subdivision
+8975 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 180417, max 203
+transfer lists:   1.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(767, 526, 217)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0015 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                105/8192         1260/98304    ( 1.3%) 
+brushsides             713/65536        5704/524288   ( 1.1%) 
+planes                 366/65536        7320/1310720  ( 0.6%) 
+vertexes               650/65536        7800/786432   ( 1.0%) 
+nodes                   89/65536        2848/2097152  ( 0.1%) 
+texinfos               109/12288        7848/884736   ( 0.9%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos               38/0            6688/0        ( 0.0%) 
+disp_verts            2854/0           57080/0        ( 0.0%) 
+disp_tris             4480/0            8960/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      327160/0          327160/0        ( 0.0%) 
+faces                  311/65536       17416/3670016  ( 0.5%) 
+hdr faces              311/65536       17416/3670016  ( 0.5%) 
+origfaces              276/65536       15456/3670016  ( 0.4%) 
+facebrushes             14/0              28/0        ( 0.0%) 
+facebrushlists         311/0            1244/0        ( 0.0%) 
+leaves                  91/65536        2912/2097152  ( 0.1%) 
+leaffaces              322/65536         644/131072   ( 0.5%) 
+leafbrushes            164/65536         328/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2566/512000      10264/2048000  ( 0.5%) 
+edges                 1812/256000       7248/1024000  ( 0.7%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          3/8192          300/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             27/32768         270/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           438/65536         876/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      297360/0        ( 0.0%) 
+visdata               [variable]         420/16777216 ( 0.0%) 
+entdata               [variable]        1081/393216   ( 0.3%) 
+LDR ambient table       91/65536         364/262144   ( 0.1%) 
+HDR ambient table       91/65536         364/262144   ( 0.1%) 
+LDR leaf ambient        91/65536        2548/1835008  ( 0.1%) 
+HDR leaf ambient       404/65536       11312/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/566      ( 0.2%) 
+pakfile               [variable]       95668/0        ( 0.0%) 
+physics               [variable]       38727/4194304  ( 0.9%) 
+physics terrain       [variable]       12488/1048576  ( 1.2%) 
+
+Level flags = 2
+
+Total triangle count: 832
+Writing d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\test_warzone.bsp
+15 seconds elapsed

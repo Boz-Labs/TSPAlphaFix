@@ -1,0 +1,10 @@
+"Extras"
+{
+	"startgame"
+	{
+		"title"		"The Stanley Parable"
+		"subtitle"	"Play the game!"
+		"pic"		"vgui/extras/stanley"
+		"command"		"map map1_a9"
+	}
+}

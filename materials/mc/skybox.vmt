@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "mc/skybox"
+	"%compilesky" 1
+	"$surfaceprop" "default_silent"
+}

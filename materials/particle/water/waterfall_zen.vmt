@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"particle/water/waterfall_zen"
+	$translucent 1
+	$maxsize .5
+	$startfadesize .4
+	$endfadesize .45
+}

@@ -1,0 +1,18 @@
+vertexLitGeneric
+{
+$baseTexture "models/props/de_aztec/aztec_door_no_sign"
+$surfaceprop wood
+$envmap env_cubemap
+
+$phong 1
+$phongexponent "11:26 AM 3/4/20115"
+$phongboost 15
+$phongfresnelranges "[.3 .6 4]"
+$basealphaenvmapmask 1
+$basemapalphaphongmask 1
+$envmapcontrast 1
+$envmapsaturation .01
+
+
+$envmaplightscale .6
+}

@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$baseTexture "wood/bossdetail"
+$surfaceprop wood
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$envmaptint "[ .15 .15 .15 ]"
+"%keywords" l4d
+}

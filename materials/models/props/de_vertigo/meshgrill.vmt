@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$basetexture "models\props\De_Vertigo\meshGrill"
+$bumpmap "models\props\De_Vertigo\meshGrill_N.vtf"
+$surfaceprop metalvent
+$AlphaTest 1
+$AlphaTestReference 0.3
+
+$phong 1
+$phongBoost 2
+$phongExponent 45
+$phongTint "{152 196 241}"
+}

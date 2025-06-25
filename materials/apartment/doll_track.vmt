@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "apartment/doll_track"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+	"$decal" 1
+}

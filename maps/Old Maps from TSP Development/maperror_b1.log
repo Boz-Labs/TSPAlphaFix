@@ -1,0 +1,190 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: D:\SteamLibrary\steamapps\common\The Stanley Parable\thestanleyparable\materials
+Loading d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\maperror_b1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Material not found!: WALLPAPER/WALLPAPER001A
+Material not found!: MOTEL/CARPETFLOOR003A
+Material not found!: CONCRETE/CONCRETEWALL041A
+Material not found!: METAL/UNDERGROUND_METAL_CORRUGATED001
+Material not found!: METAL/METALFLOOR007A
+Material not found!: CONCRETE/CONCRETEWALL041C
+"materials/Tools/toolsplayerclip.vtf": cached version doesn't exist
+"materials/Tools/toolstrigger.vtf": cached version doesn't exist
+Material not found!: TOOLS/TOOLSNODRAW_PORTAL
+Material not found!: METAL/METALWALL_BTS_001B
+Patching WVT material: maps/maperror_b1/error/errorblend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 978 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\maperror_b1.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+WARNING: node without a volume
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (851549 bytes)
+Error loading studio model "models/props_windows/hotel_door_sliding.mdl"!
+Error loading studio model "models/props_office/wall_door_frame_64b.mdl"!
+Error! To use model "models/traincar_interior/traincar_clipboard.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/traincar_interior/traincar_clipboard.mdl"!
+Error loading studio model "models/props/cs_office/fire_extinguisher.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3360 texinfos to 1902
+Reduced 167 texdatas to 138 (6133 bytes to 5008)
+Writing d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\maperror_b1.bsp
+
+nummapplanes:     ( 25550 / 65536 )
+nummapbrushes:    (  2400 /  8192 )
+nummapbrushsides: ( 24514 / 65536 )
+num_map_overlays: (   101 /   512 )
+nummodels:        (    76 /  1024 )
+num_entities:     (   951 / 16384 )
+
+2 seconds elapsed
+
+
+
+20 threads
+reading d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\maperror_b1.bsp
+reading d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\maperror_b1.prt
+1000 portalclusters
+2292 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 166 visible clusters (0.00%)
+Total clusters visible: 142896
+Average clusters visible: 142
+Building PAS...
+Average clusters audible: 202
+visdatasize:90722  compressed from 256000
+writing d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\maperror_b1.bsp
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\maperror_b1.bsp
+8378 faces
+8 degenerate faces
+5379933 square feet [774710400.00 square inches]
+67 Displacements
+16815 Square Feet [2421399.75 Square Inches]
+8370 patches before subdivision
+97086 patches after subdivision
+484 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10938002, max 800
+transfer lists:  83.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(266159, 285137, 258746)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(140788, 147814, 129289)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(73374, 77571, 68556)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(42540, 45370, 40871)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(25529, 27574, 25364)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15942, 17392, 16241)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10198, 11220, 10589)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(6647, 7356, 6988)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4394, 4883, 4656)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2935, 3271, 3124)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1978, 2209, 2110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1343, 1501, 1433)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(917, 1026, 978)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(630, 705, 670)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(435, 486, 461)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(301, 337, 319)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(210, 235, 221)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(147, 164, 154)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(103, 115, 107)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(72, 81, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(51, 57, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(36, 40, 37)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(26, 29, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(18, 20, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(13, 14, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(9, 10, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(7, 7, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(5, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(3, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(2, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0216 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  76/1024         3648/49152    ( 7.4%) 
+brushes               2400/8192        28800/98304    (29.3%) 
+brushsides           24238/65536      193904/524288   (37.0%) 
+planes               25550/65536      511000/1310720  (39.0%) 
+vertexes             13281/65536      159372/786432   (20.3%) 
+nodes                 3307/65536      105824/2097152  ( 5.0%) 
+texinfos              1902/12288      136944/884736   (15.5%) 
+texdata                138/2048         4416/65536    ( 6.7%) 
+dispinfos               67/0           11792/0        ( 0.0%) 
+disp_verts            4587/0           91740/0        ( 0.0%) 
+disp_tris             7136/0           14272/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       41704/0           41704/0        ( 0.0%) 
+faces                 8378/65536      469168/3670016  (12.8%) 
+hdr faces             8378/65536      469168/3670016  (12.8%) 
+origfaces             5896/65536      330176/3670016  ( 9.0%) 
+facebrushes            832/0            1664/0        ( 0.0%) 
+facebrushlists        8378/0           33512/0        ( 0.0%) 
+leaves                3384/65536      108288/2097152  ( 5.2%) 
+leaffaces            10933/65536       21866/131072   (16.7%) 
+leafbrushes           4247/65536        8494/131072   ( 6.5%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            64707/512000     258828/2048000  (12.6%) 
+edges                37139/256000     148556/1024000  (14.5%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        484/8192        48400/819200   ( 5.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            893/32768        8930/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17163/65536       34326/131072   (26.2%) 
+cubemapsamples          10/1024          160/16384    ( 1.0%) 
+overlays               101/512         35552/180224   (19.7%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3317584/0        ( 0.0%) 
+visdata               [variable]       90722/16777216 ( 0.5%) 
+entdata               [variable]      306694/393216   (78.0%) 
+LDR ambient table     3384/65536       13536/262144   ( 5.2%) 
+HDR ambient table     3384/65536       13536/262144   ( 5.2%) 
+LDR leaf ambient      3384/65536       94752/1835008  ( 5.2%) 
+HDR leaf ambient      9013/65536      252364/1835008  (13.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/84888    ( 0.0%) 
+pakfile               [variable]     6064805/0        ( 0.0%) 
+physics               [variable]      851549/4194304  (20.3%) 
+physics terrain       [variable]       19331/1048576  ( 1.8%) 
+
+Level flags = 2
+
+Total triangle count: 24383
+Writing d:\steamlibrary\steamapps\common\the stanley parable\thestanleyparable\maps\old maps from tsp development\maperror_b1.bsp
+2 minutes, 34 seconds elapsed

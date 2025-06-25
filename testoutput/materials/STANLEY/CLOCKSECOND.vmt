@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$basetexture "stanley/clocksecond"
+$surfaceprop metalgrate
+$translucent 1
+
+}

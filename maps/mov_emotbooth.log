@@ -1,0 +1,1627 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10095 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 137 texinfos to 75
+Reduced 10 texdatas to 10 (243 bytes to 243)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   338 / 65536 )
+nummapbrushes:    (    24 /  8192 )
+nummapbrushsides: (   179 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     8 /  1024 )
+num_entities:     (    51 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  23 portalclusters
+  49 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 499
+Average clusters visible: 21
+Building PAS...
+Average clusters audible: 23
+visdatasize:326  compressed from 368
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+189 faces
+49606 square feet [7143313.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+189 patches before subdivision
+4819 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 343054, max 247
+transfer lists:   2.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(18766, 20807, 20865)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(877, 756, 674)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(236, 115, 101)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(80, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes                 24/8192          288/98304    ( 0.3%) 
+brushsides             183/65536        1464/524288   ( 0.3%) 
+planes                 338/65536        6760/1310720  ( 0.5%) 
+vertexes               261/65536        3132/786432   ( 0.4%) 
+nodes                   99/65536        3168/2097152  ( 0.2%) 
+texinfos                75/12288        5400/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  189/65536       10584/3670016  ( 0.3%) 
+hdr faces              189/65536       10584/3670016  ( 0.3%) 
+origfaces               81/65536        4536/3670016  ( 0.1%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         189/0             756/0        ( 0.0%) 
+leaves                 108/65536        3456/2097152  ( 0.2%) 
+leaffaces              211/65536         422/131072   ( 0.3%) 
+leafbrushes             41/65536          82/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1188/512000       4752/2048000  ( 0.2%) 
+edges                  633/256000       2532/1024000  ( 0.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      252832/0        ( 0.0%) 
+visdata               [variable]         326/16777216 ( 0.0%) 
+entdata               [variable]       21162/393216   ( 5.4%) 
+LDR ambient table      108/65536         432/262144   ( 0.2%) 
+HDR ambient table      108/65536         432/262144   ( 0.2%) 
+LDR leaf ambient       108/65536        3024/1835008  ( 0.2%) 
+HDR leaf ambient       279/65536        7812/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       10095/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 486
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16379 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 155 texinfos to 93
+Reduced 12 texdatas to 12 (295 bytes to 295)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    40 /  8192 )
+nummapbrushsides: (   275 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     8 /  1024 )
+num_entities:     (    51 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23756, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   8/1024          384/49152    ( 0.8%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             279/65536        2232/524288   ( 0.4%) 
+planes                 414/65536        8280/1310720  ( 0.6%) 
+vertexes               389/65536        4668/786432   ( 0.6%) 
+nodes                  159/65536        5088/2097152  ( 0.2%) 
+texinfos                93/12288        6696/884736   ( 0.8%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 168/65536        5376/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             57/65536         114/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       21162/393216   ( 5.4%) 
+LDR ambient table      168/65536         672/262144   ( 0.3%) 
+HDR ambient table      168/65536         672/262144   ( 0.3%) 
+LDR leaf ambient       168/65536        4704/1835008  ( 0.3%) 
+HDR leaf ambient       315/65536        8820/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16379/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23756, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22504/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23756, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22504/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23755, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22501/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23756, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22502/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23756, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22503/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23756, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22503/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23755, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22505/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23755, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22505/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16929 bytes)
+Error loading studio model "models/emotbooth/glass.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 94
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+
+nummapplanes:     (   434 / 65536 )
+nummapbrushes:    (    41 /  8192 )
+nummapbrushsides: (   281 / 65536 )
+num_map_overlays: (     7 /   512 )
+nummodels:        (     9 /  1024 )
+num_entities:     (    55 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.prt
+  83 portalclusters
+ 331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 6739
+Average clusters visible: 81
+Building PAS...
+Average clusters audible: 83
+visdatasize:2491  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+285 faces
+50379 square feet [7254625.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+285 patches before subdivision
+4915 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 421518, max 292
+transfer lists:   3.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21435, 23756, 23847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1180, 1089, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(284, 166, 152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(85, 11, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0008 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             285/65536        2280/524288   ( 0.4%) 
+planes                 434/65536        8680/1310720  ( 0.7%) 
+vertexes               397/65536        4764/786432   ( 0.6%) 
+nodes                  165/65536        5280/2097152  ( 0.3%) 
+texinfos                94/12288        6768/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  285/65536       15960/3670016  ( 0.4%) 
+hdr faces              285/65536       15960/3670016  ( 0.4%) 
+origfaces              177/65536        9912/3670016  ( 0.3%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         285/0            1140/0        ( 0.0%) 
+leaves                 175/65536        5600/2097152  ( 0.3%) 
+leaffaces              340/65536         680/131072   ( 0.5%) 
+leafbrushes             58/65536         116/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1956/512000       7824/2048000  ( 0.4%) 
+edges                 1017/256000       4068/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         14/8192         1400/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              5/32768          50/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            60/65536         120/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 7/512          2464/180224   ( 1.4%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      258976/0        ( 0.0%) 
+visdata               [variable]        2491/16777216 ( 0.0%) 
+entdata               [variable]       22504/393216   ( 5.7%) 
+LDR ambient table      175/65536         700/262144   ( 0.3%) 
+HDR ambient table      175/65536         700/262144   ( 0.3%) 
+LDR leaf ambient       175/65536        4900/1835008  ( 0.3%) 
+HDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2516     ( 0.0%) 
+pakfile               [variable]      369332/0        ( 0.0%) 
+physics               [variable]       16929/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 678
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\mov_emotbooth.bsp
+1 second elapsed

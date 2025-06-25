@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dream/stars"
+	"$surfaceprop" "default_silent"
+	"$envmapmask" "dream/stars_envmask"
+	"$envmap" "dream/stars_y"
+	"$translucent" 1
+ 	"$decal" 1
+
+	"Proxies" 
+	{ 
+		 "ToggleTexture"
+		 {
+		 "toggleTextureVar" "$baseTexture"
+		 "toggleTextureFrameNumVar" "$frame"
+		 "toggleTextureShouldWrap" "0"
+		 } 	
+ 	} 
+}

@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+$basetexture "models\props\De_Vertigo\rebar_bundle"
+$bumpmap "models\props\De_Vertigo\rebar_bundle_N.vtf"
+
+$surfaceprop metal
+
+$basemapalphaphongmask 1
+$phong 1
+$phongBoost 2
+$phongExponent 45
+$phongTint "{196 232 253}"
+}

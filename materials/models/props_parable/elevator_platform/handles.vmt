@@ -1,0 +1,10 @@
+VertexlitGeneric
+{
+	$baseTexture "models\props_parable\elevator_platform\handles.vmt"
+	$surfaceprop metalvent
+
+	$envmap env_cubemap
+	$envmaptint "[ .1 .1 .1 ]"
+	
+	$basealphaenvmapmask 1
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "apartment/wall01"
+	"$surfaceprop" "Plaster"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[0.1 0.1 0.1]"
+}

@@ -1,0 +1,15 @@
+"LightMappedGeneric"
+{
+	"$basetexture" "mc/water"
+	"$surfaceprop"	"water"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 15.00
+		}
+	}
+}

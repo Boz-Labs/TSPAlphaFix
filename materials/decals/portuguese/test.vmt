@@ -1,0 +1,11 @@
+UnlitGeneric
+{
+
+$translucent 1
+$vertexcolor 1
+$vertexalpha 1
+$decal 1
+$basetexture "decals/plasmaglowalpha"
+$decalscale 4.00
+$color "{255 127 255 80}"
+}

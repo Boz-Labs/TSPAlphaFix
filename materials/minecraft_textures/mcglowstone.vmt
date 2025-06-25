@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "minecraft_textures/mcglowstone"
+	"$surfaceprop" "glass"
+}

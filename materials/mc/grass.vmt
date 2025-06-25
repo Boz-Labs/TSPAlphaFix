@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mc/grass"
+	"$reflectivity"	"[.4 .4 .4]"
+	"$surfaceprop" "grass"
+//	"%detailtype"	"mcgrass"
+}

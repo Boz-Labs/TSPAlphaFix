@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_textures/mcworkbench_side1"
+	"$surfaceprop" "wood"
+}

@@ -1,0 +1,26 @@
+VertexLitGeneric
+{
+$baseTexture "models\props_foliage\Urban_Trees_barks01"
+$AlphaTest 1
+$AlphaTestReference ".3"
+$nocull 1
+$model 1
+$FlashlightNoLambert 1
+"%compilepassbullets" 1
+$vertexfog 1
+$treeSway 1 
+$treeSwayHeight 300 
+$treeSwayStartHeight ".5" 
+$treeSwayRadius 200 
+$treeSwayStartRadius "0.0" 
+$treeSwaySpeed ".2" 
+$treeSwayStrength 10 
+$treeSwayScrumbleSpeed "1.2" 
+$treeSwayScrumbleStrength 4 
+$treeSwayScrumbleFrequency 2 
+$treeSwayFalloffExp 2 
+$treeSwayScrumbleFalloffExp 3 
+$treeSwaySpeedHighWindMultiplier 0 
+$treeSwaySpeedLerpStart "200.0" 
+$treeSwaySpeedLerpEnd "600.0" 
+}

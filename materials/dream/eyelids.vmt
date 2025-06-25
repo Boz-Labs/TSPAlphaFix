@@ -1,0 +1,5 @@
+"LightMappedGeneric" { "$baseTexture" "dream/eyelids"
+"$surfaceprop" "Default" "Proxies" { "AnimatedTexture" {
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "1" } } }

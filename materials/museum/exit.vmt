@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+   "$basetexture" "museum\exit"
+   "$decal" 1
+   "$decalscale" 1
+   "$translucent" 1
+}

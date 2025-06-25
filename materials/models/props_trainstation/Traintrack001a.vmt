@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models\props_trainstation\Traintrack001a"
+     "$envmapmask" "models\props_trainstation\Traintrack001a_mask"
+     "$envmap" "env_cubemap"
+//   "$translucent" 1
+     "$surfaceprop" "metal"
+     "$alphatest" 1
+}

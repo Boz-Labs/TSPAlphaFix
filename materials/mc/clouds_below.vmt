@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mc/clouds"
+//	"$translucent" 1
+	"$alphatest"	1
+	"$surfaceprop" "no_decal"
+	"$color"	"[.77 .8 .82]"
+
+	Proxies
+	{
+		TextureScroll
+		{
+			textureScrollVar $basetexturetransform
+			textureScrollRate -.0005
+			textureScrollAngle 90
+		}
+	}
+}

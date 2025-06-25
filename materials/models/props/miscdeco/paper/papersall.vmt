@@ -1,0 +1,10 @@
+VertexlitGeneric
+{
+$basetexture "models\props\MiscDeco\paper\papersall"
+$nocull 1
+
+
+
+
+
+}

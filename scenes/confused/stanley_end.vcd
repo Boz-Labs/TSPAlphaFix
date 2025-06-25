@@ -1,0 +1,80 @@
+// Choreo version 1
+actor "Stanley"
+{
+  channel "Move to"
+  {
+    event moveto "Moveto target1"
+    {
+      time 7.253334 -1.000000
+      param "scene_stanley_t1"
+      param2 "CrouchWalk"
+      distancetotarget 41.00
+      forceshortmovement
+    }
+    event moveto "Moveto target2"
+    {
+      time 15.656666 -1.000000
+      param "scene_stanley_t2"
+      param2 "CrouchWalk"
+      distancetotarget 41.00
+      forceshortmovement
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "Look at target3"
+    {
+      time 12.531429 15.645715
+      param "scene_stanley_t3"
+    }
+    event lookat "Look at target4"
+    {
+      time 21.080954 26.357145
+      param "scene_stanley_t4"
+    }
+    event lookat "Look at target5"
+    {
+      time 26.495237 30.961905
+      param "scene_stanley_t5"
+    }
+  }
+  channel "facepose"
+  {
+    event expression "stanley_end/"
+    {
+      time 0.047619 31.252378
+      param "stanley_end"
+    }
+  }
+  channel "sound"
+  {
+    event speak "stanley_scene.freedom-4"
+    {
+      time 0.049999 13.607551
+      param "stanley_scene.freedom-4"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "stanley_scene.freedom-5"
+    {
+      time 15.149999 30.274897
+      param "stanley_scene.freedom-5"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "40"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

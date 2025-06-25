@@ -1,0 +1,5 @@
+"eyes"
+{
+	"$basetexture" "sdk/models/Humans/Male/eyeball_r"
+	"$iris" "sdk/models/humans/male/pupil_r"
+}

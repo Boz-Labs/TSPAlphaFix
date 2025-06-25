@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$basetexture "stanley/loadingdock"
+"%compilepassbullets" 1
+$surfaceprop metalgrate
+"%keywords" stanley
+$translucent 1
+
+}

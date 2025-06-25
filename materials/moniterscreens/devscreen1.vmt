@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+$baseTexture "moniterscreens/devscreen1"
+$surfaceprop glass
+$selfillum 1
+}

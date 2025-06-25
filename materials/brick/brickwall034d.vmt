@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Brick/brickwall034d"
+	"$surfaceprop" "brick"
+	"%keywords" "c17downtown"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .6 .6 .6]"
+}

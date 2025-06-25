@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"%detailtype"	"freedom_grass00"
+	"$vertexfog"	"1"
+	"$basetexture"	"freedom/grass00a"
+	"$basetexture2"	"freedom/grass00b"
+	"$surfaceprop"	"grass"
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/keypad/keypad_num7"
+	"$translucent" 1
+}

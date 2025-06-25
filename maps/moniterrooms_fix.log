@@ -1,0 +1,168 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\TSPAlphaFix\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\moniterrooms_fix.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+Could not locate GameData file stanley.fgd
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 144 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\moniterrooms_fix.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (154021 bytes)
+Error loading studio model "models/props_office/lab_copy_machine.mdl"!
+Error loading studio model "models/props_destruction/rubble_128_128.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 290 texinfos to 181
+Reduced 34 texdatas to 32 (1162 bytes to 1068)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\moniterrooms_fix.bsp
+
+nummapplanes:     (   830 / 65536 )
+nummapbrushes:    (   446 /  8192 )
+nummapbrushsides: (  2759 / 65536 )
+num_map_overlays: (    69 /   512 )
+nummodels:        (     7 /  1024 )
+num_entities:     (    96 / 16384 )
+
+0 seconds elapsed
+
+
+
+20 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\moniterrooms_fix.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\moniterrooms_fix.prt
+ 208 portalclusters
+ 438 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 18 visible clusters (0.00%)
+Total clusters visible: 9660
+Average clusters visible: 46
+Building PAS...
+Average clusters audible: 118
+visdatasize:9897  compressed from 13312
+writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\moniterrooms_fix.bsp
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Portal 2\bin\lights.rad.
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\moniterrooms_fix.bsp
+1333 faces
+30868 square feet [4445126.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1333 patches before subdivision
+zero area child patch
+62621 patches after subdivision
+53 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5762294, max 369
+transfer lists:  44.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(149062, 144043, 106727)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(61796, 54229, 31939)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25329, 20590, 10156)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(11121, 8586, 3913)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(5166, 3937, 1848)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2627, 2054, 1065)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1462, 1203, 690)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(889, 773, 476)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(579, 528, 337)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(396, 373, 241)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(280, 269, 173)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(201, 196, 125)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(147, 144, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(107, 106, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(79, 78, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(58, 57, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(43, 42, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(32, 31, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(23, 23, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(17, 17, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(13, 12, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(9, 9, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(7, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(5, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(4, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0048 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                446/8192         5352/98304    ( 5.4%) 
+brushsides            2760/65536       22080/524288   ( 4.2%) 
+planes                 830/65536       16600/1310720  ( 1.3%) 
+vertexes              2211/65536       26532/786432   ( 3.4%) 
+nodes                  515/65536       16480/2097152  ( 0.8%) 
+texinfos               181/12288       13032/884736   ( 1.5%) 
+texdata                 32/2048         1024/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1333/65536       74648/3670016  ( 2.0%) 
+hdr faces             1333/65536       74648/3670016  ( 2.0%) 
+origfaces              824/65536       46144/3670016  ( 1.3%) 
+facebrushes            390/0             780/0        ( 0.0%) 
+facebrushlists        1333/0            5332/0        ( 0.0%) 
+leaves                 523/65536       16736/2097152  ( 0.8%) 
+leaffaces             1865/65536        3730/131072   ( 2.8%) 
+leafbrushes            573/65536        1146/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9754/512000      39016/2048000  ( 1.9%) 
+edges                 5756/256000      23024/1024000  ( 2.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         53/8192         5300/819200   ( 0.6%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            182/32768        1820/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2868/65536        5736/131072   ( 4.4%) 
+cubemapsamples          16/1024          256/16384    ( 1.6%) 
+overlays                69/512         24288/180224   (13.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1930396/0        ( 0.0%) 
+visdata               [variable]        9897/16777216 ( 0.1%) 
+entdata               [variable]       38402/393216   ( 9.8%) 
+LDR ambient table      523/65536        2092/262144   ( 0.8%) 
+HDR ambient table      523/65536        2092/262144   ( 0.8%) 
+LDR leaf ambient       523/65536       14644/1835008  ( 0.8%) 
+HDR leaf ambient      1113/65536       31164/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/28498    ( 0.0%) 
+pakfile               [variable]     2297154/0        ( 0.0%) 
+physics               [variable]      154021/4194304  ( 3.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 2
+
+Total triangle count: 3792
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tspalphafix\maps\moniterrooms_fix.bsp
+10 seconds elapsed

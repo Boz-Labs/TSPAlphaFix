@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "freedom/floor_metal"
+	"$bumpmap" "freedom/floor_metal_normal"
+	"$surfaceprop" "Metal"
+}
