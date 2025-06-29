@@ -1,9 +1,9 @@
-WorldVertexTransition
+"WorldVertexTransition"
 {
-$basetexture "plastic/office_cleanwall002"
-$basetexture2 "plaster/plasterwall043d"
-$surfaceprop plaster
-$surfaceprop2 plaster
-"%noportal" 1
-"%keywords" "portal2 bts office underground l4d2"
+	"$basetexture" "plastic/office_plasticwall001c"
+	"$basetexture2" "plaster/plasterwall043d"
+	"$blendmodulatetexture" "stanley/wallblend"
+
+
+	"%keywords" "tsp"
 }

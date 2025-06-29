@@ -1,9 +1,8 @@
-WorldVertexTransition
+"WorldVertexTransition"
 {
-$basetexture "carpet/office_carpet001a"
-$basetexture2 "props/carpetfloor003a"
-$surfaceprop default
-$surfaceprop2 carpet
-"%noportal" 1
-"%keywords" "portal2 bts office underground l4d2"
+	"$basetexture2" "motel/carpetfloor003a"
+	"$basetexture" "carpet/office_carpet001a"
+	"$blendmodulatetexture" "error/floorblend"
+	"$surfaceprop" "carpet"
+	"%keywords" "tsp"
 }
